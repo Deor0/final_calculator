@@ -1,3 +1,5 @@
+CSC 202 Final Grade Calculator
+
 For Windows
 ```pip install tk```
 
