@@ -1,4 +1,4 @@
-CSC 202 Final Grade Calculator
+Augustana CSC 202 Final Grade Calculator
 
 For Windows
 ```pip install tk```
